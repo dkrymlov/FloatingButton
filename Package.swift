@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "FloatingButton",
+	name: "OneToOneFloatingButton",
 	platforms: [
         .iOS(.v14),
 		.macOS(.v11),
